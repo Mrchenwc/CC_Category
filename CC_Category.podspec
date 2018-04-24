@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'CC_Category'
-s.version      = '0.0.5'
+s.version      = '0.0.6'
 s.summary      = 'CC_Category'
 s.homepage     = 'https://github.com/Mrchenwc/CC_Category'
 s.license      = 'MIT'
