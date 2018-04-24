@@ -1,9 +1,8 @@
 //
 //  UIView+Category.m
-//  FamilyDoctor
 //
 //  Created by cwc on 2016/12/1.
-//  Copyright © 2016年 YLZInfo. All rights reserved.
+//  Copyright © 2016年 Mrchenwc All rights reserved.
 //
 
 #import "UIView+Category.h"
